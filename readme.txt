@@ -1,3 +1,6 @@
-git remote add origin https://github.com/apatchaa/3.git
-git branch -M main
-git push -u origin main
+Thanks for downloading this template!
+
+Template Name: 3
+Template URL: https://bootstrapmade.com/free-html-bootstrap-template-3/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
